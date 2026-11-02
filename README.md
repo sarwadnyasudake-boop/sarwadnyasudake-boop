@@ -47,6 +47,7 @@ I'm passionate about designing and developing hardware-based solutions using mic
 <p>
   <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP8266-333333?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/8051_Microcontroller-00599C?style=for-the-badge"/>
