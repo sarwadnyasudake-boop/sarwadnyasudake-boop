@@ -73,9 +73,7 @@ I'm passionate about designing and developing hardware-based solutions using mic
 - Digital Electronics
 - Digital Logic Design
 - Microcontrollers
-- Sensor Interfacing
 - VLSI Fundamentals
-- UART, SPI and I2C Communication
 - Renewable Energy
 
 ---
