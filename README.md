@@ -33,8 +33,14 @@
 
 **Hardware & Embedded Platforms**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+**Hardware, Microcontrollers & Embedded Platforms**
+
+![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino Mega](https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-333333?style=for-the-badge&logo=espressif&logoColor=white)
+![8051](https://img.shields.io/badge/8051_Microcontroller-00599C?style=for-the-badge)
+![LPC2148](https://img.shields.io/badge/LPC2148_ARM7-6A5ACD?style=for-the-badge)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **Tools & Technologies**
