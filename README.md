@@ -116,6 +116,24 @@ A software-based project designed to manage electric vehicle information, chargi
 
 **Technologies:** Python, MySQL, Tkinter.
 
+### 🔐 5. KeyLoom – Password Strength Checker & Secure Password Generator
+
+A Python Flask-based web application designed to evaluate password strength and generate secure random passwords.
+
+**Technologies:** Python, Flask, HTML, CSS, JavaScript.
+
+**Key Features:**
+- Password strength evaluation: Easy, Medium and Difficult.
+- Live password strength indicator.
+- Detection of common words, repeated characters and predictable patterns.
+- Secure random password generation using Python's `secrets` module.
+- Customizable password length and character options.
+- Show/Hide, Copy and Regenerate functionality.
+
+🔗 [View KeyLoom Project on GitHub](https://github.com/sarwadnyasudake-boop/KeyLoom)
+
+🌐 **Live Demo:** Coming Soon
+
 ---
 
 ## 🏆 Achievements & Activities
